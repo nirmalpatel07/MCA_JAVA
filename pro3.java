@@ -7,7 +7,7 @@ public class pro3 {
         int org_num = sc.nextInt();
         int num = org_num;
         int rev_num = 0;
-
+        
         while(num>0){
             int last_digit = num % 10;
             rev_num = rev_num*10 + last_digit;
