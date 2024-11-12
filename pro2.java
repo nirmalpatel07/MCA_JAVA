@@ -49,6 +49,6 @@ public class pro2 {
             b=next;
         }
         sc.close();
-
+ 
     }
 }
