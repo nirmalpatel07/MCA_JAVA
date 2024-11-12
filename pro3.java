@@ -19,6 +19,6 @@ public class pro3 {
         }else{
             System.out.println("Number is not Palindrone");
         }
-        sc.close();
+        sc.close(); 
     }
 }
