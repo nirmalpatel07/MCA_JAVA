@@ -48,5 +48,7 @@ public class pro2 {
             a=b;
             b=next;
         }
+        sc.close();
+
     }
 }
